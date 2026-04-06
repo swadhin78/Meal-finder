@@ -2,18 +2,15 @@
 
 A React-based web app to search meals and explore recipes.
 
-## 🚀 Features
+##  Features
 - 🔍 Search meals by name
 - 📂 Browse by categories
 - 📄 View detailed recipe info
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - React.js
 - Vite
 - CSS
-
-## 📸 Screenshots
-(Add screenshots here later)
 
 ## ▶️ Run Locally
 ```bash
